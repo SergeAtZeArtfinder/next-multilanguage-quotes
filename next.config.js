@@ -1,5 +1,5 @@
 // eslint-disable-next-line @typescript-eslint/no-require-imports
-const i18nConfig = require('./next-i18next.config.js');
+const i18nConfig = require('./src/next-i18next.config');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
