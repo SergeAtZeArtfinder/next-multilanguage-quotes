@@ -1,0 +1,17 @@
+{
+    "navigation": {
+        "homepage": "Homepage",
+        "about": "About Us"
+    },
+    "home": {
+        "h1": "Hello, Next.js with TypeScript and Tailwind CSS!"
+    },
+    "about": {
+        "h1": "About Us - page!",
+        "art_of_small_steps":{
+            "title": "Lord, teach me the art of small steps",
+            "description": "I am not asking for miracles or visions but strength to get through the day. Give me the wit to understand at the right moment who and what really matter to me. Help me to choose how I portion out my time.\nGive me the sense of what is essential and what comes second. I ask for strength, self-discipline and moderation so that I don’t get swept up in life but can order my day wisely.\nHelp me to face up to the immediate as best I can and to recognize the present hour as the most important. Let me recognize that life is accompanied by difficulties and setbacks, which are chances to grow and mature.\nMake of me a man capable of joining those who have gone below. Give me not what I want but what I need. Teach me the art of small steps."
+        }
+    },
+    "flag": "🇬🇧"
+}
