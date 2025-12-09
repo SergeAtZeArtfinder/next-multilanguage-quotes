@@ -23,10 +23,13 @@ export const getServerSideProps: GetServerSideProps = async ({ locale }) => {
      * However in some cases one may need the translations for other languages at runtime too.
      * - To change the behavior and load extra locales just pass in an array
      * of locales as the last argument to `serverSideTranslations`.
-     * `serverSideTranslations(locale, ['common'], null, ['en', 'no'])
+     * `serverSideTranslations(locale, ['common'], null, ['en', 'fr'])
      */
     props: {
-      ...(await serverSideTranslations(locale ?? 'en', ['common'])),
+      ...(await serverSideTranslations(locale ?? 'en', ['common'], null, [
+        'en',
+        'fr',
+      ])),
     },
   }
 }
