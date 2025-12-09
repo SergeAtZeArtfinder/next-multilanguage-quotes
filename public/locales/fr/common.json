@@ -1,0 +1,17 @@
+{
+    "navigation": {
+        "homepage": "Page d'accueil",
+        "about": "À propos de nous"
+    },
+    "home": {
+        "h1": "Salut, Next.js avec le TypeScript et Tailwind CSS!"
+    },
+    "about": {
+        "h1": "À propos de nous - ici!",
+        "art_of_small_steps": {
+            "title": "Seigneur, apprends-moi l’art des petits pas",
+            "description": "Je ne demande pas de miracles ni de visions, mais je demande la force pour le quotidien !\n Rends-moi attentif et inventif pour saisir au bon moment les connaissances et expériences qui me touchent particulièrement. Affermis mes choix dans la répartition de mon temps.\nDonne-moi de sentir ce qui est essentiel et ce qui est secondaire. Je demande la force, la maîtrise de soi et la mesure, que je ne me laisse pas emporter par la vie, mais que j’organise avec sagesse le déroulement de la journée.\nAide-moi à faire face aussi bien que possible à l’immédiat et à reconnaître l’heure présente comme la plus importante. Donne-moi de reconnaître avec lucidité que la vie s’accompagne de difficultés, d’échecs, qui sont occasions de croître et de mûrir.\nFais de moi un homme capable de rejoindre ceux qui gisent au fond. Donne-moi non pas ce que je souhaite, mais ce dont j’ai besoin. Apprends-moi l’art des petits pas !"
+        }
+    },
+    "flag": "🇫🇷"
+}
