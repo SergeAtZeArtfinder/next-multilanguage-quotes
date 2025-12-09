@@ -10,8 +10,5 @@ module.exports = {
     locales: ['en', 'fr'],
   },
   /** To avoid issues when deploying to some paas (vercel...) */
-  localePath:
-    typeof window === 'undefined'
-      ? path.resolve('./public/locales')
-      : '/locales',
+  localePath: path.resolve('./public/locales'),
 }
